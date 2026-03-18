@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+scikit-learn
+requests
+python-dotenv
+tensorflow-cpu==2.13.0
